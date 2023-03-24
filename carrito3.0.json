@@ -1,0 +1,36 @@
+[{
+		"id": "101",
+		"Producto": "Leche en polvo",
+		"Descripción": " Leche desnatada Lauki",
+		"Fecha": "27/06/2095",
+		"Foto": "leche-en-polvo.png"
+	},
+	{
+		"id": "102",
+		"Producto": "Galletas María",
+		"Descripción": "Galletas ",
+		"Fecha": "10/06/2025",
+		"Foto": "dulces.png"
+	},
+	{
+		"id": "103",
+		"Producto": "Natillas de Vainilla",
+		"Descripción": "Natillas Hcendeado",
+		"Fecha": "10/05/2025",
+		"Foto": "dulces.png"
+	},
+	{
+		"id": "104",
+		"Producto": "chuches ",
+		"Descripción": "Chuches de legunas",
+		"Fecha": "20/06/2069",
+		"Foto": "dulces.png"
+	},
+	{
+		"id": "105",
+		"Producto": "Aceite",
+		"Descripción": "Aceite de oliva",
+		"Fecha": "11/06/2023",
+		"Foto": "aceite-de-oliva.png"
+	}
+]
